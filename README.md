@@ -1,25 +1,14 @@
-##################################################################################################################################
-######################################  NASA Power Data Download & DSSAT WTH Generator ###########################################
-##################################################################################################################################
+# NASA Power Data Download & DSSAT WTH Generator 
 
-Written By Dr Jeeva 
-Contributed By Pugazh
+Written By Jeevanand, Pugazhenthi
 
 It is a python utility to download data from the Nasa power website and convert the downloaded file into the .WTH file for DSSAT.
-##################################################################################################################################
-Run nasa_wth.py
-##################################################################################################################################
 
+## Run nasa_wth.py
 
+### Requirements
+ 1.Good Internet Connection.
 
-Requirements......   1.Good Internet Connection...
-
-
-
-
-
-
-###############
 It has two parts 
 	Multi point Past Weather Data Download from the NASA Power Website.....
 	Converting the Downloaded Weather Data into WTH Files as input for DSSAT.......
